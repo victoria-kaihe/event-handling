@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', start)
 function start () {
   // The first example is done for you. This will change the background colour of the first div
   // when you mouse over it.
-  one()
+  one();
   two()
 
   // Your turn! Create a new function called `two`, then call it from here.
